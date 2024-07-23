@@ -12,7 +12,7 @@ router.get('/', function(req, res, next) {
 						"release_date": "2004-11-09",
 						"status": "retired",
 						"engine": "Gecko",
-						"engine_version": "1.7"
+						"engine_version": "1.8"
 					}
 				}
 			}
